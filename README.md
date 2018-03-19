@@ -1,5 +1,8 @@
 # learnApiGrape
 
+
+放弃了，有点问题，换了个教程．这个教程不太明白json哪里定义的．
+
 from: https://www.sitepoint.com/build-great-apis-grape/
 
 
